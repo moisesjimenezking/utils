@@ -1,0 +1,17 @@
+Flask
+Flask-APScheduler
+Flask-Limiter
+Flask-Pydantic
+Flask-SQLAlchemy
+requests
+beautifulsoup4
+more-itertools
+flask-peewee
+python-dotenv
+mysql-connector-python
+beautifulsoup4
+scrapy
+flask-cors
+python-telegram-bot
+twisted
+elasticsearch
